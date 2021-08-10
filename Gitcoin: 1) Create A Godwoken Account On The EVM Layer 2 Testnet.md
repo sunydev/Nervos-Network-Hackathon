@@ -9,6 +9,6 @@ https://explorer.nervos.org/aggron/address/ckt1qyqvjy6zddu72z8pget6q9rde9xntr97s
 
 
 3.A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2.
- ![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/faucetAccount.png?raw=true)
+ ![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/task1/depositLayer2.png?raw=true)
  
 
