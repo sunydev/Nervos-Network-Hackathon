@@ -1,8 +1,8 @@
 # Nervos-Network-Hackathon
 Nervos-Network-Hackathon
 
-1. A screenshot of the accounts you created (account list) in ckb-cli.
-![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/newAccount.png?raw=true)
+1. A link to the Layer 1 address you funded on the Testnet Explorer.
+https://explorer.nervos.org/aggron/address/ckt1qyqvjy6zddu72z8pget6q9rde9xntr97spzswfduhz
 
 2.A link to the Layer 1 address you funded on the Testnet Explorer.
 https://explorer.nervos.org/aggron/address/ckt1qyqvjy6zddu72z8pget6q9rde9xntr97spzswfduhz
