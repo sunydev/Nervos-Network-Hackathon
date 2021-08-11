@@ -10,7 +10,7 @@ Nervos-Network-Hackathon
 3. A screenshot of the console output immediately after checking your SUDT balance.
 ![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/task5/sudtBalance.png?raw=true)
 
-4. The Ethereum address that was checked (in text format).
+4. The Ethereum address that was checked (in text formt).
 	0x11eA4D0de4A9d8cF26418D5Fe7D1f65aA23Ec1CD
  
 
