@@ -11,6 +11,7 @@ Nervos-Network-Hackathon
 ![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/task5/sudtBalance.png?raw=true)
 
 4. The Ethereum address that was checked (in text format).
-	0x11eA4D0de4A9d8cF26418D5Fe7D1f65aA23Ec1CD
+	! Using Ethereum address: 0x11eA4D0de4A9d8cF26418D5Fe7D1f65aA23Ec1CD
+
  
 
