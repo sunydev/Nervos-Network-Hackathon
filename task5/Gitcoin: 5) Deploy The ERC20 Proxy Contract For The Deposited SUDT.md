@@ -8,9 +8,9 @@ Nervos-Network-Hackathon
 	Deployed SUDT-ERC20 Proxy contract address: 0xf25b60F471aBA727D12f7500dD54b39bA0fD7ECE
 
 3. A screenshot of the console output immediately after checking your SUDT balance.
-![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/newAccount.png?raw=true)
+![alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/task5/sudtBalance.png?raw=true)
 
 4. The Ethereum address that was checked (in text format).
-	0x54a34b8ac83c033d59e92da427bd43babc4e3cb886e11b58fc39d6492de7c255
+	0x11eA4D0de4A9d8cF26418D5Fe7D1f65aA23Ec1CD
  
 
