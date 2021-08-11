@@ -10,5 +10,11 @@ ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5
 
 3. The Ethereum address used to generate the Deposit Receiver Address (in text format).
     Using Ethereum address: 0x11eA4D0de4A9d8cF26418D5Fe7D1f65aA23Ec1CD
+
+4. A link to the Etherscan explorer for the successful Force Bridge transaction. This can be found on Force Bridge under History→Succeed.
+https://rinkeby.etherscan.io/tx/0x81231d72360216c4fe9b60e8f1982e9b71cfe6a966c20bca2df1dfbba620ff7c
+
+5. A link to the Nervos explorer for the successful Force bridge transaction. This can be found on Force Bridge under History→Succeed.
+https://explorer.nervos.org/aggron/transaction/0xde776253b415790bc084bc42c1290df88ca0147646aedcd72b11ef9901ee6719
  
 
