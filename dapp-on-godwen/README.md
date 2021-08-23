@@ -1,4 +1,4 @@
-# Blockchain workshop
+# Nervos Simple Playlist
 
 Start UI:
 
