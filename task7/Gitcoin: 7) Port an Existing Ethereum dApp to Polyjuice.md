@@ -12,9 +12,9 @@ https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/dapp-on-godwen
 
 3. Smart Contract deployed 
 * transaction hash of the deployment transaction: 
-    0x8b6b0d8898dd80b21bf0d69806e268532b7d12175d5d2d93e176de5448be6c2e
+    0x1a50ddd449596f7daabbfe85a42f1ee7c50dbbc10c32ec1dd9611ec7c681d3b6
 * the deployed contract address
-    0x5930777d2be36806522d799a5469bd81776a43A8
+    0xFa7CD292B138EC6Ce5C68CccaE29464F5C00A2EE
 * ABI of the deployed smart contract
     ```"abi": [
     {
