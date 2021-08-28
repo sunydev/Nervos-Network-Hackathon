@@ -2,7 +2,7 @@
 Nervos-Network-Hackathon
 
 ## Task Submission
-1. Screenshots or video of your application running on Godwoken
+1. A screenshot or video of your EVM application on Layer 2 with Force Bridge support
 
 ![Alt text](https://github.com/sunydev/Nervos-Network-Hackathon/blob/main/task8/forceBridge.png?raw=true)
 
